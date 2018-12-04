@@ -39,6 +39,7 @@ public class Day3 {
 			}
 
 		}
+		/*day3_2
 		for(int j = 0; j < temp; j++) {
 			for(int i = 0; i < size; i++) {
 				for(int k = 0; k < size; k++) {
@@ -51,7 +52,7 @@ public class Day3 {
 				System.out.println(j+1);
 			}
 			counter = 0;
-		}
+		}*/
 
 		/*day3_1
 		for(int i = 0; i < size; i++) {
